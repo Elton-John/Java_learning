@@ -1,7 +1,7 @@
 package java_04_strings;
 
-//napisz program, który dla znajdującej się w pliku zmiennej `str` wyświetli na konsoli odwrócony napis.
-//        Przykład: dla napisu `Tak` wyświetli `kaT`.
+/*napisz program, /który dla znajdującej się w pliku zmiennej `str` wyświetli na konsoli odwrócony napis.
+        Przykład: dla napisu `Tak` wyświetli `kaT`.*/
 
 public class Main06 {
     public static void main(String[] args) {
