@@ -1,4 +1,4 @@
-package java_01_methods.java_01_methods;
+package java_01_methods;
 
 //napisz publiczną metodę calculateNetto, która przyjmie argumenty:
 //

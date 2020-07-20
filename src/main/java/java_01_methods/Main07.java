@@ -1,4 +1,4 @@
-package java_01_methods.java_01_methods;
+package java_01_methods;
 
 //W pliku Main07.java napisz publiczną metodę checkEvenOdd, która:
 //

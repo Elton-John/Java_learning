@@ -1,4 +1,4 @@
-package java_01_methods.java_01_methods;
+package java_01_methods;
 
 //W pliku Main02.java napisz metodę public static int square(int num), która zwróci wartość num podniesioną do kwadratu.
 

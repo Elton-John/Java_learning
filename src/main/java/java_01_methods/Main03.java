@@ -1,4 +1,4 @@
-package java_01_methods.java_01_methods;
+package java_01_methods;
 
 //W pliku Main03.java napisz publiczną metodę convertToUsd,
 // która przyjmuje parametr pln, czyli kwotę w złotówkach. Metoda ma zwrócić podaną kwotę w dolarach amerykańskich.
