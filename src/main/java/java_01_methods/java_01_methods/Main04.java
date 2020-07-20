@@ -1,4 +1,4 @@
-package java_01_methods;
+package java_01_methods.java_01_methods;
 
 //W pliku Main04.java napisz publiczną metodę createName, która przyjmie następujące parametry:
 //

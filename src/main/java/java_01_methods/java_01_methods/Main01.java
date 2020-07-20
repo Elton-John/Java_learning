@@ -1,4 +1,4 @@
-package java_01_methods;
+package java_01_methods.java_01_methods;
 
 //
 //napisz metodę public static int multiply(int multipler, int index), która zwróci wartość zmiennej

@@ -1,4 +1,4 @@
-package java_01_methods;
+package java_01_methods.java_01_methods;
 
 // umieść metodę o sygnaturze `public static boolean divisibleBy(int a, int b )`:
 //

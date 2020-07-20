@@ -1,4 +1,4 @@
-package java_01_methods;
+package java_01_methods.java_01_methods;
 //
 //W pliku Main09.java napisz publiczną metodę factorial,
 //        która przyjmie jako parametr liczbę naturalną n.
