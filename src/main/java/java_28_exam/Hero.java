@@ -8,6 +8,7 @@ public class Hero implements Comparable<Hero>, Serializable {
     private String name;
     private Long power;
     private LocalDate dateOfBirth;
+    private String phoneNumber;
 
 
     public Hero() {
@@ -18,6 +19,13 @@ public class Hero implements Comparable<Hero>, Serializable {
         this.power = power;
         this.dateOfBirth = dateOfBirth;
 
+    }
+
+    public Hero(String name, Long power, LocalDate dateOfBirth, String phoneNumber) {
+        this.name = name;
+        this.power = power;
+        this.dateOfBirth = dateOfBirth;
+        this.phoneNumber = phoneNumber;
     }
 
     public String getName() {
@@ -44,8 +52,13 @@ public class Hero implements Comparable<Hero>, Serializable {
         this.dateOfBirth = dateOfBirth;
     }
 
+    public String getPhoneNumber() {
+        return phoneNumber;
+    }
 
-
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
+    }
 
     @Override
     public int compareTo(Hero o) {
